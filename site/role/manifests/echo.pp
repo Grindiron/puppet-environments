@@ -1,3 +1,5 @@
-class role::echo {
-  notice("Hello World from role::echo")
+class role::echo (
+  String $hello,
+){
+  notice("hello variable contents: $hello")
 }
