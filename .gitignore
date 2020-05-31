@@ -1,0 +1,4 @@
+.r10k-deploy.json
+data/
+environments/
+modules/
